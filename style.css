@@ -52,7 +52,7 @@ form .input ,[type="text"],[type="password"]{
    
 }
 form button{
-    color: red;
+    color: rgb(0, 51, 255);
     padding: 15px;
     width: 250px;
 }
