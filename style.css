@@ -1,0 +1,58 @@
+body{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color: #f2f2f2;
+}
+h1{
+    color: red;
+}
+form{
+    background-color: white;
+    width: 300px;
+    height: 420px;
+    text-align: center;
+    margin-left: 500px;
+    margin-top: 150px;
+    
+
+
+
+
+}
+form .les-icon{
+  display: flex;
+  text-align: center; 
+  justify-content: center;
+  align-items: center;
+
+}
+form .les-icon p{
+    margin: 15px;
+    border: 2px solid black;
+    outline: 12px;
+    padding: 3px;
+    border-radius: 100%;
+    justify-content: center;
+    
+}
+form .les-icon p:hover{
+    color: aqua;
+}
+form .page{
+    color: rgb(164, 231, 176);
+}
+form .input ,[type="text"],[type="password"]{
+    margin-bottom: 18px;
+    padding: 10px;
+    border-radius: 5px;
+    outline: none;
+    
+    
+   
+}
+form button{
+    color: red;
+    padding: 15px;
+    width: 250px;
+}
